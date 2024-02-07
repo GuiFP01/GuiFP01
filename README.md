@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center">
+<p align="center" font-weight="700">
   <a href="https://github.com/GuiFP01">Guilherme Fernandes Pereira</a>
 </p>
 
