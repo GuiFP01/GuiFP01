@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Front-end+web+developer;Passionate+about+nature+and+photography&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=35"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Front-end+web+developer;Passionate+about+nature+and+photography&font=Fira%20Code&center=true&width=640&height=45&color=f75c7e&vCenter=true&pause=1000&size=22"/>
 </p>
 
 <!--
