@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<p align="center">
+  <a href="https://github.com/GuiFP01">Guilherme Fernandes Pereira</a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Front-end+web+developer;Passionate+about+nature+and+photography"/>
+</p>
+
 <!--
 **GuiFP01/GuiFP01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
