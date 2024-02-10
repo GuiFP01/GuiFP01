@@ -23,12 +23,12 @@
   
   <p>
     <br/>
-    <img title="html" alt="html" src="/assets/html-5_icon.png" width="40" height="40"/>
-    <img title="css" alt="css" src="/assets/css-3_icon.png" width="40" height="40"/>
-    <img title="javascript" alt="javascript" src="/assets/js_icon.png" width="40" height="40"/>
-    <img title="typescript" alt="typescript" src="/assets/typescript_icon.png" width="40" height="40"/>
-    <img title="sass" alt="sass" src="/assets/sass_icon.png" width="40" height="40"/>
-    <img title="git" alt="git" src="/assets/git_icon.png" width="40" height="40"/>
+    <img title="html" alt="html" src="/assets/html-5_icon.png" width="40" height="40"/>&nbsp
+    <img title="css" alt="css" src="/assets/css-3_icon.png" width="40" height="40"/>&nbsp
+    <img title="javascript" alt="javascript" src="/assets/js_icon.png" width="40" height="40"/>&nbsp
+    <img title="typescript" alt="typescript" src="/assets/typescript_icon.png" width="40" height="40"/>&nbsp
+    <img title="sass" alt="sass" src="/assets/sass_icon.png" width="40" height="40"/>&nbsp
+    <img title="git" alt="git" src="/assets/git_icon.png" width="40" height="40"/>&nbsp
     <img title="node-js" alt="node-js" src="/assets/node-js_icon.png" width="40" height="40"/>
   </p>
 
