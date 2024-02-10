@@ -9,7 +9,7 @@
 
   <hr>
 
-  <p>&lt my name is/ &gt</p>
+  <img src="https://github.com/GuiFP01/GuiFP01/assets/112819742/5d0b1c0d-0044-41b2-bce8-d137f11f1ccb" alt="phrase my name is" width="150"/>
 
   <p>
     <a href="https://github.com/GuiFP01"><img src="https://github.com/GuiFP01/GuiFP01/assets/112819742/a683e29e-6822-4cec-b17e-2c6ffe4a2297" alt="Guilherme Fernandes Pereira" width="550"/></a>
