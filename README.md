@@ -32,7 +32,4 @@
     <img title="node-js" alt="node-js" src="/assets/node-js_icon.png" width="40" height="40"/>
   </p>
 
-
-
-
  </div>
